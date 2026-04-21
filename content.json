@@ -1,0 +1,26 @@
+{
+  "name": "Nabin Timalsina",
+  "title": "Technology Operation Specialist",
+  "phone": "+977-9849875412",
+  "email": "menabin66@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/nabin-kumar-timalsina-82928b155/",
+  "experience": [
+    {
+      "title": "Technology Operation Specialist",
+      "date": "Apr 2025 – Present",
+      "roles": ["Physical network infrastructure design...", "Cloud Infrastructure (AWS, GCP)..."]
+    }
+  ],
+  "certifications": [
+    { "icon": "🛡️", "name": "ISC2 Cyber Security", "body": "ISC2" },
+    { "icon": "🌐", "name": "CCNA", "body": "Cisco Certified Network Associate" },
+    { "icon": "☁️", "name": "AWS Certified Cloud Practitioner", "body": "CLF-C02 · Amazon Web Services" },
+    { "icon": "☕", "name": "Core Java Programming", "body": "Fundamentals of Java Programming" }
+  ],
+  "projects": [
+    "Network Server Room Migration of On-Premise Office",
+    "Onboarding of New ISP — SLA Review & Cost Optimization",
+    "CCTV & Biometric Device Setup and Configuration",
+    "Confluence & Google Shared Drive Document Cleanup"
+  ]
+}
